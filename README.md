@@ -3,7 +3,7 @@ Compilation of fun &amp; casual web games to play with friends!
 
 If you want to contribute, feel free to create a new pull request or an issue!
 
-## Index
+## Categories
 - [Word Games](#word-games)
 - [Drawing Games](#drawing-games)
 - [Deduction Games](#deduction-games)
