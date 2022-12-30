@@ -11,6 +11,7 @@ If you want to contribute, feel free to create a new pull request or an issue!
 - [Virtual Boards & Game Rooms](#virtual-boards-and-game-rooms)
 - [Other Games](#other-games)
 
+---
 
 ## Word Games
 ### Boggle
