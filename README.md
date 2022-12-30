@@ -3,6 +3,15 @@ Compilation of fun &amp; casual web games to play with friends!
 
 If you want to contribute, feel free to create a new pull request or an issue!
 
+## Index
+- [Word Games](#word-games)
+- [Drawing Games](#drawing-games)
+- [Deduction Games](#deduction-games)
+- [Social Deduction Games](#social-deduction-games)
+- [Virtual Boards & Game Rooms](#virtual-boards-and-game-rooms)
+- [Other Games](#other-games)
+
+
 ## Word Games
 ### Boggle
 - https://www.ewordchallenge.net/
@@ -149,7 +158,7 @@ If you want to contribute, feel free to create a new pull request or an issue!
 - https://www.elongman.uk/chameleon/
 
 
-## Virtual Boards & Game Rooms
+## Virtual Boards and Game Rooms
 - Bridge Base Online: https://www.bridgebase.com/
 - Trickster Cards: https://www.trickstercards.com/game/
 - PlayOK: https://www.playok.com/
